@@ -1653,7 +1653,7 @@ GameObject:
   - component: {fileID: 137537602149001370}
   m_Layer: 0
   m_Name: Set Character_Female_Hair_4
-  m_TagString: Untagged
+  m_TagString: Hair
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3089,7 +3089,7 @@ GameObject:
   - component: {fileID: 8660472704601690369}
   m_Layer: 0
   m_Name: Set Character_Female_Torso_1
-  m_TagString: Untagged
+  m_TagString: Body
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
