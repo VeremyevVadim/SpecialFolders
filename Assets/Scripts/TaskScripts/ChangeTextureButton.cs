@@ -7,7 +7,7 @@ using UnityEngine.Serialization;
 
 public class ChangeTextureButton : MonoBehaviour
 {
-    [SerializeField] private CharType _charType = CharType.Female;
+    [SerializeField] private CharType _charType = CharType.Male;
     [SerializeField] private MeshType _meshType = MeshType.Body;
     [FormerlySerializedAs("_textureColor")] [SerializeField] [Range(0, 1)] private int _textureNumber = 0;
 
